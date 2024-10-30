@@ -49,7 +49,7 @@ Este guia fornece instruções para conectar-se à máquina remota e acessar o P
 Após configurar o túnel SSH, abra o SQL Developer e configure a conexão da seguinte forma:
 
 - **Nome da Conexão**: Escolha um nome de sua preferência (ex.: `Conexão Oracle Remota`).
-- **Usuário**: `usuário_fornecido`
+- **Usuário**: `system`
 - **Senha**: `tabd2024`
 - **Host**: `localhost`
 - **Porta**: `3521`
